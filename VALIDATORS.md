@@ -162,6 +162,8 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | | |
 | <img src="https://user-images.githubusercontent.com/21022937/83322887-06236b00-a296-11ea-9fc5-034f5dee648b.png" width="40"> | DSRV | www.dsrvlabs.com | @dsrv.betanet | 10% | KR | | |
+| <img src="https://c7.hotpng.com/preview/600/559/818/puss-in-boots-shrek-the-musical-princess-fiona-youtube-shrek.jpg" width="50"> | Ivan Validator |  Go to the mooon! | @validatorivan5.betanet | 9% | UA | @validatorivan5.betanet |  |
+
 
 
 Notes:
